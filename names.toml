@@ -1,0 +1,12 @@
+[Section1]
+<name>="Section1"
+Section=1
+
+[Section2]
+Section=2
+Username=<name>
+
+[Section3]
+Section=3
+Users= ["Jane", "John", <name>]
+NumUsers=3
